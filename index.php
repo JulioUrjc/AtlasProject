@@ -1,13 +1,13 @@
 <html>
 <title>Atlas Project</title>
-<FRAMESET ROWS="189,*,40" FRAMESPACING="0" FRAMEBORDER="0" BORDER="0">
-	<FRAME SRC="cabecera.php" NAME="MENU">
- 	<FRAMESET COLS="*,290" FRAMESPACING="0" FRAMEBORDER="0" BORDER="0">
+<FRAMESET ROWS="120,*" FRAMESPACING="0" FRAMEBORDER="0" BORDER="0">
+	<FRAME SRC="Prueba.php" NAME="CABEZERA_FILTRADOS">
+ 	<FRAMESET COLS="400,*" FRAMESPACING="0" FRAMEBORDER="1" BORDER="1">
 		
-		<FRAME SRC="hola.php" NAME="todo">
-		<FRAME SRC="twitter.php" NAME="tweet"> 
+		<FRAME SRC="Prueba2.php" NAME="MENU">
+		<FRAME SRC="Prueba3.php" NAME="CONTENIDO"> 
 	</FRAMESET>
-		<FRAME SRC="pie.php" NAME="pie">		
+		<!--<FRAME SRC="pie.php" NAME="pie">	-->	
 <NOFRAMES>
 <body>
 

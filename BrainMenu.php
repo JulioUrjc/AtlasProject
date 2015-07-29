@@ -34,9 +34,10 @@
 
 				</td>
 				<td height="50%" align="center" valign="middle">
-
+					<a href= "Type_Of_Stady/tipes_stadies.php">
 					<img src= "img/tiposestudio.png" WIDTH=200 HEIGHT=250 ALT="TYPES OF STUDIES" /> 
 					<p style = "font-size :20px; font-family: Arial">TYPE OF STUDY</p>
+					</a>
 				</td>
 				
 

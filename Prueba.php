@@ -2,7 +2,7 @@
 
 <!--<BODY BGCOLOR="red">-->
 
-<BODY BACKGROUND="img\degradado.png">
+<BODY BACKGROUND="img/degradado.png">
 
  	<table width="100%" height="100%" cellpadding="0" cellspacing="0">
  	

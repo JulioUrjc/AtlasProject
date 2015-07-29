@@ -9,9 +9,7 @@
 		
 		<table width="100%" height="100%" cellpadding="0" cellspacing="0">
 
-			<tr>
-
-				
+			<tr>	
 				<td height="50%" align="center" valign="middle">
 				
 					<a href= "BrainMenu.php">
@@ -19,9 +17,6 @@
 					<p style = "font-size :30px; font-family: Arial">ATLAS</p>
 					</a>
 				</td>
-			
-
-
 				<td height="50%" align="center" valign="middle">
 					<a href= "http://www.google.es">
 					<img src= "img/lupa.png" WIDTH=50% HEIGHT=40% ALT="INDIVIDUAL FEATURES" /> 

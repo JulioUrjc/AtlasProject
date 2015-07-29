@@ -4,7 +4,7 @@
 
 </head>	
 
-<BODY BACKGROUND="img\degradado2.png">
+<BODY BACKGROUND="img/degradado2.png">
 
  	<table width="100%" height="100%" cellpadding="0" cellspacing="0">
  	

@@ -1,5 +1,8 @@
 <html>
-<title>Individual Features</title>
+<head>
+	<title>Individual Features</title>
+	<link href="../css/basic.css" rel="stylesheet" type="text/css" />
+</head>
 
 <body>
 	<?php $rut="../img/Individual_Features/"?>
@@ -19,5 +22,6 @@
 		<tr>
 		</tr>
 	</table>
+	<a href="../BrainMenu.php">Main Menu</a>
 </body>
 </html>

@@ -63,7 +63,7 @@ ul {
 }
 
 p {
-	margin:10px 0;
+	margin:30px 0;
 }
 
 /* -------------------------------
@@ -83,7 +83,7 @@ LAYOUT STRUCTURE
 #copyrightInner {
 	width:960px;
 	margin:0 40;
-	font-size:12px;
+	font-size:30px;
 	color:#cccccc;
 	padding:20px 0;
 	position:relative;

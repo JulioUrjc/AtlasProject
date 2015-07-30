@@ -23,7 +23,7 @@
 
 
 				<td height="50%" align="center" valign="middle">
-					<a href= "Individual_Features/indivvidual_features.php">
+					<a href= "Individual_Features/individual_features.php">
 					<img src= "img/individualFeatures2.png" WIDTH=400 HEIGHT=250 ALT="INDIVIDUAL FEATURES" /> 
 					<p style = "font-size :20px; font-family: Arial">INDIVIDUAL FEATURES</p>
 					</a>

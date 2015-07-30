@@ -13,7 +13,7 @@ body {
   color: #333;
   background:#f0ebeb url("../img/degradado2.png") repeat-x;
   font-family: Calibri;
-  font-size:13px;
+  font-size:20px;
   line-height:135%;
 }
 
@@ -22,14 +22,16 @@ BASIC HTML ELEMENTS STYLES
 ------------------------------------------------------*/
 
 a {
-	color:#d21521;
-	text-decoration:none;
+	color: #000000;
+	font-size: xx-large;
+	
 }
 
 a:hover {
 }
 
 a:focus {
+	color: #ffffff;
 }
 
 h1 a {

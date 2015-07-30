@@ -5,8 +5,7 @@
 </head>
 
 <body>
-	<?php 
-		  $rut="../img/Individual_Features/species/";
+	<?php $rut="../img/Individual_Features/species/";
 		  $rutAction="../addIndex.php";
 		  $initial="&initial=Individual_Features/individual_features.php";
 	?>
@@ -14,14 +13,14 @@
 		<caption><h1> Species</h1> </caption>
 		<tr>
 			<td align="middle">
-				<a href=<?php echo $rutAction."?index=00001".$initial; ?> ><img src=<?php echo $rut."human.png"; ?> width=35% heigth=35% alt="species"><br> Human</a>
+				<a href=<?php echo $rutAction."?index=10001".$initial; ?> ><img src=<?php echo $rut."human2.png"; ?> width=35% heigth=35% alt="human"><br> Human</a>
 			</td>
 			<td align="middle">
-				<a href=<?php echo $rutAction."?index=00002".$initial; ?> ><img src=<?php echo $rut."human.png"; ?> width=35% heigth=35% alt="pathologies"><br> Monkey</a>
+				<a href=<?php echo $rutAction."?index=10002".$initial; ?> ><img src=<?php echo $rut."monkey.png"; ?> width=35% heigth=35% alt="monkey"><br> Monkey</a>
 			</td>
 		</tr>
 			<td align="middle" colspan="2">
-				<a href=<?php echo $rutAction."?index=00003".$initial; ?> ><img src=<?php echo $rut."human.png"; ?> width=17% heigth=17% alt="data"><br> Rat</a>
+				<a href=<?php echo $rutAction."?index=10003".$initial; ?> ><img src=<?php echo $rut."rat.png"; ?> width=17% heigth=17% alt="rat"><br> Rat</a>
 			</td>
 		<tr>
 		</tr>

@@ -21,13 +21,16 @@ body {
 BASIC HTML ELEMENTS STYLES
 ------------------------------------------------------*/
 
-a {
+a:link {
 	color: #000000;
 	font-size: xx-large;
 	
 }
 
 a:hover {
+	text-decoration:underline;
+	color:#999999;
+	font-weight:bold;
 }
 
 a:focus {
